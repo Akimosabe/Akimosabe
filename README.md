@@ -1,7 +1,8 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Akim%20Bogdanov%20👨‍💻&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8edea,100:fed6e3&height=140&text=Akim%20Bogdanov%20%F0%9F%94%8D%20QA%20Engineer&fontAlign=50&fontAlignY=40&fontSize=32&fontColor=1f2d3d&fontFamily=Segoe%20UI&animation=fadeIn" alt="Akim Bogdanov Header"/>
 </p>
+
 
 
 ## 🧠 About Me
@@ -15,7 +16,7 @@ My next goal: mastering **automation testing**.
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,git,postman,docker,vscode,idea,html,css,js,mysql&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,postman,git,github,gitlab,vscode,pycharm,idea,docker,linux,bash,html,css,js,mysql,json&perline=8" />
 </p>
 
 ---
@@ -34,24 +35,19 @@ My next goal: mastering **automation testing**.
 🎓 **Ural Federal University** — *Applied Informatics (BSc, 2026)*  
 🎓 **Izhevsk Industrial & Economic College** — *Law Enforcement (2017)*  
 
-📜 **Certificates:**
-- Fundamentals of Software Testing  
-- Agile Project Management  
-- Software Verification  
-- The Universe of Testing  
+> 📜 **Certificates**
+>
+> 🧩 [Fundamentals of Software Testing](https://intuit.ru/verifydiplomas/101710781)  
+> 🧩 [Agile Project Management](https://stepik.org/cert/2838849)  
+> 🧩 [Software Verification](https://intuit.ru/verifydiplomas/101710765)  
+> 🧩 [The Universe of Testing](https://stepik.org/cert/1945141)
+
 
 ---
 
 ## 🧾 Resume
-📄 [Download full resume (PDF)](https://github.com/Akimosabe/Akimosabe/raw/main/BOGDANOV_AKIM_QA.pdf)
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akimosabe&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akimosabe&layout=compact&theme=tokyonight" height="165"/>
-</p>
+📄 [Download full resume (PDF)](https://github.com/Akimosabe/Akimosabe/raw/main/BOGDANOV_AKIM_QA.pdf)  
+💼 [View my profile on HeadHunter](https://hh.ru/resume/your_profile_id)
 
 ---
 
@@ -62,6 +58,16 @@ My next goal: mastering **automation testing**.
 
 ---
 
+## 🚀 Featured Projects  
+
+⚙️ [Reliability Labs (GitLab)](https://gitlab.com/featattach-group/blm-team) — academic project with CI/CD pipelines.  
+🤖 [VK2TG News Bot](https://github.com/Akimosabe/VK2TG-News-Bot/tree/main) — Python bot parsing VK news and forwarding to Telegram channels.  
+🎞️ [GIF Finder](https://github.com/Akimosabe/akimosabe.github.io) — funny JS project for searching GIFs via public API and testing UI logic.  
+🧪 [QA Automation Demo]() — Pytest-based API and UI tests (in progress).
+
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8edea,100:fed6e3&height=100&section=footer&animation=fadeIn" alt="footer banner"/>
 </p>
+
