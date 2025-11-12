@@ -6,10 +6,10 @@
 
 
 ## 🧠 About Me
-I'm a **detail-oriented QA Engineer** passionate about improving software quality and user experience.  
-Experienced in **test case design**, **bug reporting**, and **cross-platform verification**.  
+I'm **Akim Bogdanov**, a QA Engineer passionate about software quality and usability.  
+My experience includes **manual testing**, **test-case and checklist design**, **bug reporting**, and **web & cross-platform verification**.  
 Studying **Applied Informatics** at Ural Federal University.  
-My next goal: mastering **automation testing**.
+My next goal is to master **automation testing**.
 
 ---
 
