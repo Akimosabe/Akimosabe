@@ -46,8 +46,8 @@ My next goal: mastering **automation testing**.
 ---
 
 ## 🧾 Resume
-📄 [Download full resume (PDF)](https://github.com/Akimosabe/Akimosabe/raw/main/BOGDANOV_AKIM_QA.pdf)  
-💼 [View my profile on HeadHunter](https://hh.ru/resume/your_profile_id)
+📄 [Download full resume (PDF)](https://github.com/Akimosabe/Akimosabe/raw/main/BOGDANOV%20AKIM%20QA.pdf)  
+💼 [View my profile on HeadHunter](https://ekaterinburg.hh.ru/resume/7d8845e0ff0f8c515a0039ed1f495850506661)
 
 ---
 
