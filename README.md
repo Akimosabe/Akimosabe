@@ -54,7 +54,7 @@ My next goal is to master **automation testing**.
 ## 📫 Contacts
 📧 **Email:** [akimo7abe@gmail.com](mailto:akimo7abe@gmail.com)  
 💬 **Telegram:** [@kemo7abe](https://t.me/kemo7abe)  
-💼 **LinkedIn:** [linkedin.com/in/akimosabe](www.linkedin.com/in/akimosabe)
+💼 **LinkedIn:** [linkedin.com/in/akimosabe](https://www.linkedin.com/in/akimosabe)
 
 ---
 
